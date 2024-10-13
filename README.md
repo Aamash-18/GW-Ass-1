@@ -1,3 +1,6 @@
+![Profile Photo](https://media.licdn.com/dms/image/v2/D4D03AQEznTiqafZbkw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727600517276?e=1734566400&v=beta&t=yKeHclVay_5NgSqXR0MXPm9cU5YkMUlcx6o_B3_dzHs)
+
+
 # Ansari Aamash Mohd Anwar
 **Aspiring Software Engineer | MCA Student at NIT Jamshedpur**
 
